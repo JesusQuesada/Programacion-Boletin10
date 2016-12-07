@@ -1,4 +1,4 @@
-
+    
 package boletin10_1;
 
 import javax.swing.JOptionPane;
